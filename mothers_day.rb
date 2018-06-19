@@ -4,4 +4,3 @@
 def mothers_day(mother = "Mom")
   puts "Happy Mother's Day, #{mother}!"
 end
-
